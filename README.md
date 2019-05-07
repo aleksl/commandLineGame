@@ -1,10 +1,11 @@
 # Command line game
 Command line game based on java.
-To run game run:
+
+To run game:
 
 java -jar commandLineGame-1.0.jar
 
-On start game load map with places and monster to kill between places and example 3 saved game. 
+Start game loaded map with places and monster to kill between places and example 3 saved game. 
 
 You can explore places and kill monster during transfer between places. In each place you can save game. 
 
