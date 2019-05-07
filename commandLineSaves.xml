@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<saves xmlns="pl.aleksl.commandLineGame">
+    <playerSave id="1">
+        <name>Test</name>
+        <hp>100</hp>
+        <exp>0</exp>
+        <weapon>Sword</weapon>
+        <lastPlaceId>1</lastPlaceId>
+    </playerSave>
+</saves>
